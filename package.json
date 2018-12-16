@@ -1,0 +1,21 @@
+{
+  "name": "cordova-zy-amap-location",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-zy-amap-location",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "location",
+    "高德",
+    "geolocation",
+    "cordova 高德"
+  ],
+  "author": "zhangyu",
+  "license": "Apache 2.0"
+}
